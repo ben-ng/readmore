@@ -1,6 +1,6 @@
 {
   "author": "Ben Ng <me@benng.me> (http://benng.me)",
-  "name": "scotch-formatter-readmore",
+  "name": "readmore",
   "description": "Add 'read more' links to your posts",
   "keywords": [
     "scotch",
@@ -11,7 +11,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ben-ng/scotch-formatter-readmore.git"
+    "url": "git://github.com/ben-ng/readmore.git"
   },
   "main": "./lib/readmore",
   "dependencies": {},
